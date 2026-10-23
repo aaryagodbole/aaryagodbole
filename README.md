@@ -1,36 +1,55 @@
-<h1 align="center">Hi 👋, I'm Aarya</h1>
-<h3 align="center">AI & Data Science Student</h3>
+<h1 align="center">Hi, I'm Aarya 👋</h1>
+<h3 align="center">AI Engineer · LLM agents, search and evaluation</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryagodbole&label=Profile%20views&color=0e75b6&style=flat" alt="aaryagodbole" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaryagodbole" alt="aaryagodbole" /></a> </p>
-
-- 🔭 I’m currently working on [AskTube – AI Tutor for YouTube](https://github.com/aaryagodbole/AskTube)
-
-- 🌱 I’m currently learning **Advance ML algorithms**
-
-- 👯 I’m looking to collaborate on **AI, ML & LLM-based projects (RAG systems, chatbots, analytics tools)**
-
-- 🤝 I’m looking for help with **Scaling RAG pipelines & optimizing LLM retrieval**
-
-- 💬 Ask me about **AI/ML, Frontend**
-
-- 📫 How to reach me **aaryagodbole550@gmail.com**
-
-- ⚡ Fun fact **I debug in Python and chat in German**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aarya-godbole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarya-godbole" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/axryaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="axryaa" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/aarya-godbole"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/axryaa"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:aaryagodbole550@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+I build LLM systems that have to be right, not just fluent: agents that plan with
+structured outputs, retrieval that stays grounded in real data, and the evaluation
+harnesses that prove a change actually made things better.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryagodbole&show_icons=true&locale=en&layout=compact" alt="aaryagodbole" /></p>
+### 🔭 Now
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaryagodbole&show_icons=true&locale=en" alt="aaryagodbole" /></p>
+- **Software Development Engineer (AI) Intern at [StyleMatch](https://github.com/MyStyleMatch)**: building the
+  LLM decision engine behind conversational product search, LLM catalog enrichment,
+  hybrid semantic search, and the evaluation framework that keeps it all honest.
+- **Building in public**: open-source AI tools, one at a time. First up:
+  [`dsa-coach-mcp`](https://github.com/aaryagodbole/dsa-coach-mcp).
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryagodbole&" alt="aaryagodbole" /></p>
+### 🚀 Projects
 
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [**dsa-coach-mcp**](https://github.com/aaryagodbole/dsa-coach-mcp) | MCP server that coaches DSA practice across LeetCode and Codeforces, with spaced-repetition revision | Python · MCP · SQLite |
+| [**AskTube**](https://github.com/aaryagodbole/AskTube) | Chrome extension that answers questions from YouTube videos with RAG | FastAPI · LangChain · RAG |
+| [**Expense-Tracker-MCP-Server**](https://github.com/aaryagodbole/Expense-Tracker-MCP-Server) | MCP server for tracking and summarising expenses from any MCP client | Python · MCP · SQLite |
+| [**ExplainIT**](https://github.com/aaryagodbole/ExplainIT) | Learning assistant that explains any topic at beginner, technical or code level | Python · Groq · Prompting |
+| [**Ai-Web-Scraper**](https://github.com/aaryagodbole/Ai-Web-Scraper) | Scraper for dynamic sites with LLM parsing and summarisation | Selenium · Ollama |
+
+### 🧠 AI / GenAI
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6E40C9?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-555555?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![LLM Evaluation](https://img.shields.io/badge/LLM%20Evaluation-555555?style=flat-square)
+
+### 🛠️ Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,fastapi,nextjs,react,nodejs,express,postgres,mysql,prisma,docker,aws,git,github,tailwind,sklearn,pytorch,tensorflow&perline=10" alt="Tech stack" />
+</p>
+
+### 📊 GitHub
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=aaryagodbole&show_icons=true&theme=transparent&hide_border=true" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryagodbole&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top languages" />
+</p>
+
+<p align="center"><i>Fun fact: I debug in Python and chat in German 🇩🇪</i></p>
