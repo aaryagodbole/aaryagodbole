@@ -23,7 +23,7 @@ harnesses that prove a change actually made things better.
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [**dsa-coach-mcp**](https://github.com/aaryagodbole/dsa-coach-mcp) | MCP server that coaches DSA practice on any platform: FSRS revision fitted to your own reviews, a mistake journal, an in-chat MCP Apps dashboard, and agent evals that grade how any model uses the tools. On PyPI | Python · MCP · FSRS · SQLite |
+| [**dsa-coach-mcp**](https://github.com/aaryagodbole/dsa-coach-mcp) | MCP server that coaches DSA practice on any platform: FSRS revision fitted to your own reviews, a mistake journal, an in-chat MCP Apps dashboard, and agent evals that grade how any model uses the tools | Python · MCP · FSRS · SQLite |
 | [**AskTube**](https://github.com/aaryagodbole/AskTube) | Chrome extension that answers questions from YouTube videos with RAG | FastAPI · LangChain · RAG |
 | [**Expense-Tracker-MCP-Server**](https://github.com/aaryagodbole/Expense-Tracker-MCP-Server) | MCP server for tracking and summarising expenses from any MCP client | Python · MCP · SQLite |
 | [**ExplainIT**](https://github.com/aaryagodbole/ExplainIT) | Learning assistant that explains any topic at beginner, technical or code level | Python · Groq · Prompting |
