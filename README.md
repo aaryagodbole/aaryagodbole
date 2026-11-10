@@ -31,11 +31,14 @@ harnesses that prove a change actually made things better.
 
 ### 🌍 Open source
 
-| Project | Contribution | Status |
-| --- | --- | --- |
-| [**pandas**](https://github.com/pandas-dev/pandas) | [Show full float precision in assertion failure messages](https://github.com/pandas-dev/pandas/pull/71989) (regression fix) | ✅ Merged |
-| [**SQLFluff**](https://github.com/sqlfluff/sqlfluff) | [RF03: don't unqualify correlated references in DML subqueries](https://github.com/sqlfluff/sqlfluff/pull/9081) | 🔄 In review |
-| [**SQLFluff**](https://github.com/sqlfluff/sqlfluff) | [Report relative paths when linting with no path argument](https://github.com/sqlfluff/sqlfluff/pull/9079) | 🔄 In review |
+<!-- OSS:START -->
+**0 merged** · **2 in review** across **1** projects
+
+<img src="https://github.com/sqlfluff.png?size=40" width="20" height="20" align="center" /> **[sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff)** ⭐ 10k
+
+- [RF03: don't unqualify correlated references in DML subqueries](https://github.com/sqlfluff/sqlfluff/pull/9081) · 🟢 open
+- [Report relative paths when linting with no path argument](https://github.com/sqlfluff/sqlfluff/pull/9079) · 🟢 open
+<!-- OSS:END -->
 
 ### 🧠 AI / GenAI
 
