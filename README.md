@@ -29,6 +29,14 @@ harnesses that prove a change actually made things better.
 | [**ExplainIT**](https://github.com/aaryagodbole/ExplainIT) | Learning assistant that explains any topic at beginner, technical or code level | Python · Groq · Prompting |
 | [**Ai-Web-Scraper**](https://github.com/aaryagodbole/Ai-Web-Scraper) | Scraper for dynamic sites with LLM parsing and summarisation | Selenium · Ollama |
 
+### 🌍 Open source
+
+| Project | Contribution | Status |
+| --- | --- | --- |
+| [**pandas**](https://github.com/pandas-dev/pandas) | [Show full float precision in assertion failure messages](https://github.com/pandas-dev/pandas/pull/71989) (regression fix) | ✅ Merged |
+| [**SQLFluff**](https://github.com/sqlfluff/sqlfluff) | [RF03: don't unqualify correlated references in DML subqueries](https://github.com/sqlfluff/sqlfluff/pull/9081) | 🔄 In review |
+| [**SQLFluff**](https://github.com/sqlfluff/sqlfluff) | [Report relative paths when linting with no path argument](https://github.com/sqlfluff/sqlfluff/pull/9079) | 🔄 In review |
+
 ### 🧠 AI / GenAI
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -50,11 +58,6 @@ harnesses that prove a change actually made things better.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=aaryagodbole&theme=dark&background=00000000&hide_border=true" />
   <img src="https://streak-stats.demolab.com?user=aaryagodbole&background=00000000&hide_border=true" alt="Contribution streak" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaryagodbole/aaryagodbole/refs/heads/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/aaryagodbole/aaryagodbole/refs/heads/output/github-snake.svg" alt="Contribution graph eaten by a snake" />
 </picture>
 
 <p align="center"><i>Fun fact: I debug in Python and chat in German 🇩🇪</i></p>
