@@ -32,7 +32,11 @@ harnesses that prove a change actually made things better.
 ### 🌍 Open source
 
 <!-- OSS:START -->
-**0 merged** · **2 in review** across **1** projects
+**1 merged** · **2 in review** across **2** projects
+
+<img src="https://github.com/pandas-dev.png?size=40" width="20" height="20" align="center" /> **[pandas-dev/pandas](https://github.com/pandas-dev/pandas)** ⭐ 50.6k
+
+- [REGR: show full float precision in assertion failure messages (GH#71509)](https://github.com/pandas-dev/pandas/pull/71989) · 🟣 merged
 
 <img src="https://github.com/sqlfluff.png?size=40" width="20" height="20" align="center" /> **[sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff)** ⭐ 10k
 

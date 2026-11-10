@@ -23,7 +23,7 @@ def stars(count: int) -> str:
 
 def render() -> str:
     prs = gh("search", "prs", "--author", USER, "--limit", "200",
-             "--json", "repository,number,title,url,state,isDraft,closedAt")
+             "--json", "repository,number,title,url,state,isDraft")
     by_repo: dict[str, list[dict]] = defaultdict(list)
     for pr in prs:
         repo = pr["repository"]["nameWithOwner"]
@@ -35,18 +35,16 @@ def render() -> str:
         info = gh("api", f"repos/{repo}")
         if info["stargazers_count"] < MIN_STARS:
             continue
-        merged = [p for p in items if p["state"] == "closed"
-                  and gh("api", f"repos/{repo}/pulls/{p['number']}")["merged_at"]]
-        merged_numbers = {p["number"] for p in merged}
+        merged = [p for p in items if p["state"] == "merged"]
         open_ = [p for p in items if p["state"] == "open" and not p["isDraft"]]
         if merged or open_:
-            rows.append((info, merged, open_, merged_numbers))
+            rows.append((info, merged, open_))
 
     rows.sort(key=lambda r: (-len(r[1]), -r[0]["stargazers_count"]))
     total_merged = sum(len(r[1]) for r in rows)
     total_open = sum(len(r[2]) for r in rows)
     lines = [f"**{total_merged} merged** · **{total_open} in review** across **{len(rows)}** projects", ""]
-    for info, merged, open_, merged_numbers in rows:
+    for info, merged, open_ in rows:
         owner, name = info["owner"]["login"], info["full_name"]
         lines.append(
             f'<img src="https://github.com/{owner}.png?size=40" width="20" height="20" align="center" /> '
@@ -54,7 +52,7 @@ def render() -> str:
         )
         lines.append("")
         for pr in merged + open_:
-            mark = "🟣 merged" if pr["number"] in merged_numbers else "🟢 open"
+            mark = "🟣 merged" if pr["state"] == "merged" else "🟢 open"
             lines.append(f'- [{pr["title"]}]({pr["url"]}) · {mark}')
         lines.append("")
     return "\n".join(lines).rstrip()
