@@ -53,8 +53,8 @@ harnesses that prove a change actually made things better.
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaryagodbole/aaryagodbole/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/aaryagodbole/aaryagodbole/output/github-snake.svg" alt="Contribution graph eaten by a snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaryagodbole/aaryagodbole/refs/heads/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/aaryagodbole/aaryagodbole/refs/heads/output/github-snake.svg" alt="Contribution graph eaten by a snake" />
 </picture>
 
 <p align="center"><i>Fun fact: I debug in Python and chat in German 🇩🇪</i></p>
