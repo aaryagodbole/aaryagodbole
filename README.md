@@ -47,9 +47,14 @@ harnesses that prove a change actually made things better.
 
 ### 📊 GitHub
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=aaryagodbole&show_icons=true&theme=transparent&hide_border=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryagodbole&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top languages" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=aaryagodbole&theme=dark&background=00000000&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=aaryagodbole&background=00000000&hide_border=true" alt="Contribution streak" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaryagodbole/aaryagodbole/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/aaryagodbole/aaryagodbole/output/github-snake.svg" alt="Contribution graph eaten by a snake" />
+</picture>
 
 <p align="center"><i>Fun fact: I debug in Python and chat in German 🇩🇪</i></p>
