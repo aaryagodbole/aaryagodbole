@@ -34,7 +34,7 @@ harnesses that prove a change actually made things better.
 <!-- OSS:START -->
 **1 merged** · **2 in review** across **2** projects
 
-<img src="https://github.com/pandas-dev.png?size=40" width="20" height="20" align="center" /> **[pandas-dev/pandas](https://github.com/pandas-dev/pandas)** ⭐ 50.6k
+<img src="https://github.com/pandas-dev.png?size=40" width="20" height="20" align="center" /> **[pandas-dev/pandas](https://github.com/pandas-dev/pandas)** ⭐ 50.5k
 
 - [REGR: show full float precision in assertion failure messages (GH#71509)](https://github.com/pandas-dev/pandas/pull/71989) · 🟣 merged
 
