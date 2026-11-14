@@ -32,7 +32,7 @@ harnesses that prove a change actually made things better.
 ### 🌍 Open source
 
 <!-- OSS:START -->
-**1 merged** · **2 in review** across **2** projects
+**1 merged** · **1 in review** across **2** projects
 
 <img src="https://github.com/pandas-dev.png?size=40" width="20" height="20" align="center" /> **[pandas-dev/pandas](https://github.com/pandas-dev/pandas)** ⭐ 50.5k
 
@@ -41,7 +41,6 @@ harnesses that prove a change actually made things better.
 <img src="https://github.com/sqlfluff.png?size=40" width="20" height="20" align="center" /> **[sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff)** ⭐ 10k
 
 - [RF03: don't unqualify correlated references in DML subqueries](https://github.com/sqlfluff/sqlfluff/pull/9081) · 🟢 open
-- [Report relative paths when linting with no path argument](https://github.com/sqlfluff/sqlfluff/pull/9079) · 🟢 open
 <!-- OSS:END -->
 
 ### 🧠 AI / GenAI
