@@ -32,9 +32,9 @@ harnesses that prove a change actually made things better.
 ### 🌍 Open source
 
 <!-- OSS:START -->
-**2 merged** · **2 in review** across **4** projects
+**3 merged** · **2 in review** across **5** projects
 
-<img src="https://github.com/pandas-dev.png?size=40" width="20" height="20" align="center" /> **[pandas-dev/pandas](https://github.com/pandas-dev/pandas)** ⭐ 50.5k
+<img src="https://github.com/pandas-dev.png?size=40" width="20" height="20" align="center" /> **[pandas-dev/pandas](https://github.com/pandas-dev/pandas)** ⭐ 50.6k
 
 - [REGR: show full float precision in assertion failure messages (GH#71509)](https://github.com/pandas-dev/pandas/pull/71989) · 🟣 merged
 
@@ -42,13 +42,17 @@ harnesses that prove a change actually made things better.
 
 - [RF03: don't unqualify correlated references in DML subqueries](https://github.com/sqlfluff/sqlfluff/pull/9081) · 🟣 merged
 
+<img src="https://github.com/langchain-ai.png?size=40" width="20" height="20" align="center" /> **[langchain-ai/docs](https://github.com/langchain-ai/docs)** ⭐ 455
+
+- [docs: correct Python retry defaults and the create_agent recursion limit](https://github.com/langchain-ai/docs/pull/7785) · 🟣 merged
+
+<img src="https://github.com/modelcontextprotocol.png?size=40" width="20" height="20" align="center" /> **[modelcontextprotocol/csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk)** ⭐ 4.6k
+
+- [Return 415 for missing or unparseable Content-Type on MCP POST endpoints](https://github.com/modelcontextprotocol/csharp-sdk/pull/2026) · 🟢 open
+
 <img src="https://github.com/langchain-ai.png?size=40" width="20" height="20" align="center" /> **[langchain-ai/langmem](https://github.com/langchain-ai/langmem)** ⭐ 1.8k
 
 - [fix(knowledge): stop manage_memory update from re-creating missing memories](https://github.com/langchain-ai/langmem/pull/218) · 🟢 open
-
-<img src="https://github.com/langchain-ai.png?size=40" width="20" height="20" align="center" /> **[langchain-ai/docs](https://github.com/langchain-ai/docs)** ⭐ 455
-
-- [docs: correct Python retry defaults and the create_agent recursion limit](https://github.com/langchain-ai/docs/pull/7785) · 🟢 open
 <!-- OSS:END -->
 
 ### 🧠 AI / GenAI
