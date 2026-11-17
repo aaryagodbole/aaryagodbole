@@ -32,7 +32,7 @@ harnesses that prove a change actually made things better.
 ### 🌍 Open source
 
 <!-- OSS:START -->
-**2 merged** · **0 in review** across **2** projects
+**2 merged** · **2 in review** across **4** projects
 
 <img src="https://github.com/pandas-dev.png?size=40" width="20" height="20" align="center" /> **[pandas-dev/pandas](https://github.com/pandas-dev/pandas)** ⭐ 50.5k
 
@@ -41,6 +41,14 @@ harnesses that prove a change actually made things better.
 <img src="https://github.com/sqlfluff.png?size=40" width="20" height="20" align="center" /> **[sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff)** ⭐ 10k
 
 - [RF03: don't unqualify correlated references in DML subqueries](https://github.com/sqlfluff/sqlfluff/pull/9081) · 🟣 merged
+
+<img src="https://github.com/langchain-ai.png?size=40" width="20" height="20" align="center" /> **[langchain-ai/langmem](https://github.com/langchain-ai/langmem)** ⭐ 1.8k
+
+- [fix(knowledge): stop manage_memory update from re-creating missing memories](https://github.com/langchain-ai/langmem/pull/218) · 🟢 open
+
+<img src="https://github.com/langchain-ai.png?size=40" width="20" height="20" align="center" /> **[langchain-ai/docs](https://github.com/langchain-ai/docs)** ⭐ 455
+
+- [docs: correct Python retry defaults and the create_agent recursion limit](https://github.com/langchain-ai/docs/pull/7785) · 🟢 open
 <!-- OSS:END -->
 
 ### 🧠 AI / GenAI
