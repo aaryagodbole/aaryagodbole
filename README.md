@@ -46,7 +46,7 @@ harnesses that prove a change actually made things better.
 
 - [docs: correct Python retry defaults and the create_agent recursion limit](https://github.com/langchain-ai/docs/pull/7785) · 🟣 merged
 
-<img src="https://github.com/modelcontextprotocol.png?size=40" width="20" height="20" align="center" /> **[modelcontextprotocol/csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk)** ⭐ 4.6k
+<img src="https://github.com/modelcontextprotocol.png?size=40" width="20" height="20" align="center" /> **[modelcontextprotocol/csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk)** ⭐ 4.7k
 
 - [Return 415 for missing or unparseable Content-Type on MCP POST endpoints](https://github.com/modelcontextprotocol/csharp-sdk/pull/2026) · 🟢 open
 
