@@ -42,7 +42,7 @@ harnesses that prove a change actually made things better.
 
 - [RF03: don't unqualify correlated references in DML subqueries](https://github.com/sqlfluff/sqlfluff/pull/9081) · 🟣 merged
 
-<img src="https://github.com/langchain-ai.png?size=40" width="20" height="20" align="center" /> **[langchain-ai/docs](https://github.com/langchain-ai/docs)** ⭐ 457
+<img src="https://github.com/langchain-ai.png?size=40" width="20" height="20" align="center" /> **[langchain-ai/docs](https://github.com/langchain-ai/docs)** ⭐ 458
 
 - [docs: correct Python retry defaults and the create_agent recursion limit](https://github.com/langchain-ai/docs/pull/7785) · 🟣 merged
 
