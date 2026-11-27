@@ -34,7 +34,7 @@ harnesses that prove a change actually made things better.
 <!-- OSS:START -->
 **3 merged** · **2 in review** across **5** projects
 
-<img src="https://github.com/pandas-dev.png?size=40" width="20" height="20" align="center" /> **[pandas-dev/pandas](https://github.com/pandas-dev/pandas)** ⭐ 50.6k
+<img src="https://github.com/pandas-dev.png?size=40" width="20" height="20" align="center" /> **[pandas-dev/pandas](https://github.com/pandas-dev/pandas)** ⭐ 50.7k
 
 - [REGR: show full float precision in assertion failure messages (GH#71509)](https://github.com/pandas-dev/pandas/pull/71989) · 🟣 merged
 
@@ -42,7 +42,7 @@ harnesses that prove a change actually made things better.
 
 - [RF03: don't unqualify correlated references in DML subqueries](https://github.com/sqlfluff/sqlfluff/pull/9081) · 🟣 merged
 
-<img src="https://github.com/langchain-ai.png?size=40" width="20" height="20" align="center" /> **[langchain-ai/docs](https://github.com/langchain-ai/docs)** ⭐ 458
+<img src="https://github.com/langchain-ai.png?size=40" width="20" height="20" align="center" /> **[langchain-ai/docs](https://github.com/langchain-ai/docs)** ⭐ 459
 
 - [docs: correct Python retry defaults and the create_agent recursion limit](https://github.com/langchain-ai/docs/pull/7785) · 🟣 merged
 
